@@ -1,0 +1,87 @@
+*
+{
+    font-family: 'Poiret One', cursive;
+    font-weight:120;
+    color:white;
+}
+
+
+
+.font-poiret-one
+{
+    font-family: 'Poiret One', cursive;
+}
+
+body
+{
+    background:url(./source-files/index-2-footer-img.png);
+    background-size: auto;
+}
+.font-sans-serif
+{
+    font-family: sans-serif;
+}
+
+.img-1
+{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    border:1px solid aqua;
+}
+
+hr
+{
+    width:75vw;
+    height:2px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border:1px solid aqua;
+}
+
+.img-2
+{
+    height:550px;
+    width:75vw;
+}
+
+.footer
+{
+    width:100vh;
+}
+
+.font-orbitron
+{
+    font-family: 'Orbitron', sans-serif;
+    font-weight:400;
+}
+
+.font-smaller
+{
+    font-size:smaller;
+}
+
+#a1
+{
+    border-bottom:1px solid aqua;
+    border-right:1px solid aqua;
+    width:fit-content;
+    border-bottom-right-radius: 40px;
+    border-top-right-radius:50%;
+}
+
+#a2
+{
+    width:100%;
+}
+
+#a3
+{
+    border-color:yellowgreen;
+}
+
+#a4
+{
+    text-shadow:0px 0px 15px aqua;
+    opacity: 0.89;
+}
